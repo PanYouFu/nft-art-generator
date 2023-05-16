@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-//TODO
+//TODO main code
 //CHECK FOR TRAILING SLASHES ON ALL INPUTS
 
 //IMPORTS
